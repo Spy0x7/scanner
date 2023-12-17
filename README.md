@@ -1,6 +1,6 @@
-# Your Port Scanner
+#Port Scanner
 
-Your Port Scanner is a lightweight and efficient Go-based tool designed to scan for open ports on a specified host or IP address.
+Port Scanner is a lightweight and efficient Go-based tool designed to scan for open ports on a specified host or IP address.
 
 ## Features
 
