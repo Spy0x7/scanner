@@ -9,17 +9,12 @@ To install and use this port scanner, follow these steps:
 1. Clone this repository:
     ```bash
     git clone https://github.com/Spy0x7/scanner.git
-    cd Toolzs
+    cd scanner
     ```
 
 2. Build the program:
     ```bash
     go build -o scanner main.go
-    ```
-
-3. Install the program:
-    ```bash
-    go install github.com/Spy0x7/scanner@latest
     ```
 
 ## Usage
