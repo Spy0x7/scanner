@@ -8,7 +8,7 @@ To install and use this port scanner, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Spy0x7/Toolzs.git
+    git clone https://github.com/Spy0x7/scanner.git
     cd Toolzs
     ```
 
@@ -19,7 +19,7 @@ To install and use this port scanner, follow these steps:
 
 3. Install the program:
     ```bash
-    go install github.com/Spy0x7/Toolzs@latest
+    go install github.com/Spy0x7/scanner@latest
     ```
 
 ## Usage
